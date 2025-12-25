@@ -1,0 +1,39 @@
+folder,filename
+01_LLM_Foundations,A Survey of Large Language Models.pdf
+01_LLM_Foundations,Attention Is All You Need (Transformer).pdf
+01_LLM_Foundations,GPT-4 Technical Report.pdf
+01_LLM_Foundations,Qwen2.5 Technical Report.pdf
+01_LLM_Foundations,The Llama 3 Herd of Models.pdf
+01_LLM_Foundations,Training Compute-Optimal Large Language Models (Chinchilla).pdf
+02_Alignment_Preference,Direct Preference Optimization (DPO).pdf
+02_Alignment_Preference,Hyperparameter Optimization in Machine Learning.pdf
+02_Alignment_Preference,LoRA - Low-Rank Adaptation of Large Language Models.pdf
+02_Alignment_Preference,QLoRA - Efficient Finetuning of Quantized LLMs.pdf
+03_RAG_Tools_Agents,A Survey on Large Language Model based Autonomous Agents.pdf
+03_RAG_Tools_Agents,Large Language Model based Multi-Agents - A Survey of Progress and Challenges.pdf
+03_RAG_Tools_Agents,ReAct - Synergizing Reasoning and Acting in Language Models.pdf
+03_RAG_Tools_Agents,Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG).pdf
+03_RAG_Tools_Agents,"Self-RAG - Learning to Retrieve, Generate, and Critique through Self-Reflection.pdf"
+03_RAG_Tools_Agents,Toolformer - Language Models Can Teach Themselves to Use Tools.pdf
+04_World_Models,A Path Towards Autonomous Machine Intelligence (LeCun).pdf
+04_World_Models,DreamerV3 - Mastering Diverse Domains through World Models.pdf
+04_World_Models,MuZero - Planning with a Learned Model.pdf
+04_World_Models,PlaNet - Learning Latent Dynamics for Planning from Pixels.pdf
+04_World_Models,"V-JEPA 2 - Self-Supervised Video Models Enable Understanding, Prediction, and Planning.pdf"
+04_World_Models,World Models (Ha & Schmidhuber).pdf
+05_Self_Organizing_NNs,A Survey on Recent Advances in Self-Organizing Maps.pdf
+05_Self_Organizing_NNs,Evolving Self-Assembling Neural Networks (LNDP).pdf
+05_Self_Organizing_NNs,SONGs - Self-Organizing Neural Graphs.pdf
+05_Self_Organizing_NNs,SORN - a self-organizing recurrent neural network.pdf
+06_Reasoning_TestTime,The Illusion of Thinking (Apple).pdf
+06_Reasoning_TestTime,s1 - Simple test-time scaling.pdf
+07_Self_Improvement,DARWIN GÖDEL MACHINE- OPEN-ENDED EVOLUTION OF SELF-IMPROVING AGENTS.pdf
+07_Self_Improvement,Gödel Agent - A Self-Referential Agent Framework for Recursive Self-Improvement.pdf
+07_Self_Improvement,Self-Programming Artificial Intelligence Using Code-Generating Language Models.pdf
+07_Self_Improvement,Self-Taught Optimizer (STOP) - Recursively Self-Improving Code Generation.pdf
+08_Efficiency,FlashAttention-3 - Fast and Accurate Attention with Asynchrony and Low Precision.pdf
+08_Efficiency,Transformers are SSMs - Generalized Models and Efficient Algorithms.pdf
+09_Multimodal,LLaVA - Visual Instruction Tuning.pdf
+09_Multimodal,LLaVA-1.5 - Improved Baselines with Visual Instruction Tuning.pdf
+09_Multimodal,LLaVA-OneVision-1.5.pdf
+09_Multimodal,SAM 2 - Segment Anything in Images and Videos.pdf
