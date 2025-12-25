@@ -5,6 +5,7 @@ This is meant to be a fun weekend activity (or something to dig into whenever yo
 In this flash drive I’ve included a curated set of AI research papers you can skim or read in full to get a strong feel for what’s happening at the cutting edge of AI right now and read for a greater understanding about the current AI industry.
 
 I wanted to put this together because I understand that this is a very interesting topic to you. 
+
 ========================================================================
 
 I also included links to some of my own projects and code from my GitHub so you can see what these ideas and different implementations of these different AI technologies and algorithms look like in practice, how they’re actually implemented in code, not just described in theory.  
